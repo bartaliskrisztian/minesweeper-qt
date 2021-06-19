@@ -1,1 +1,1 @@
-# minesweeper-qt
+# University project: minesweeper desktop application in QT
