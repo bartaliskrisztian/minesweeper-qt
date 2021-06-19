@@ -3,6 +3,6 @@
 The user can choose between 3 levels of difficulty: easy, medium and hard. The higher is the difficulty, the larger is the gamefield with more number of bombs.
 
 
-<img src="readme_images/main_easy.png" alt="level_easy" height="400" width="400"/>|
-<img src="readme_images/main_medium.png" alt="level_medium" height="400" width="400"/>|
-<img src="readme_images/main_hard.png" alt="level_hard" height="400" width="400"/>
+<img src="readme_images/main_easy.png" alt="level_easy" height="200" width="200"/>|
+<img src="readme_images/main_medium.png" alt="level_medium" height="200" width="200"/>|
+<img src="readme_images/main_hard.png" alt="level_hard" height="200" width="200"/>
